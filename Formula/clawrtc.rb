@@ -3,8 +3,8 @@ class Clawrtc < Formula
 
   desc "Mine RTC tokens with your AI agent - Proof of Antiquity consensus"
   homepage "https://bottube.ai"
-  url "https://files.pythonhosted.org/packages/source/c/clawrtc/clawrtc-1.0.0.tar.gz"
-  sha256 "d75fc515f8bc12101d4116b7981d25f973303d6b76bb6c04de2a0c32ae94661d"
+  url "https://files.pythonhosted.org/packages/source/c/clawrtc/clawrtc-1.6.0.tar.gz"
+  sha256 "2c94df74f1647d5f3a245a288936687cba41e770da392808c2eff36e653d5d24"
   license "MIT"
 
   depends_on "python@3"
