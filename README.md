@@ -30,7 +30,7 @@ ClawRTC is a self-contained CLI miner for the [RustChain](https://rustchain.org)
 | PowerPC G5                           |        2.0x | Vintage tier                           |
 | VM / Emulator                        |        ~0x  | Detected and penalized                 |
 
-> Reference: 1 RTC ≈ $0.10 USD (see the [RustChain token page](https://rustchain.org/economics)).
+> Reference: 1 RTC ≈ $0.15 USD (live rate at [rustchain.org/api/tokenomics](https://rustchain.org/api/tokenomics)).
 
 ---
 
