@@ -11,7 +11,7 @@ class Clawrtc < Formula
 
   resource "requests" do
     url "https://files.pythonhosted.org/packages/source/r/requests/requests-2.31.0.tar.gz"
-    sha256 "942c5a758f98d790eaed1a29cb6eefc7f0edf3fcb0fce8b0511f7a990d33c1f6"
+    sha256 "942c5a758f98d790eaed1a29cb6eefc7ffb0d1cf7af05c3d2791656dbd6ad1e1"
   end
 
   def install
